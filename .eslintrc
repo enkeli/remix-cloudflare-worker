@@ -1,0 +1,11 @@
+{
+  "extends": [
+    "@remix-run/eslint-config"
+  ],
+  "rules": {
+  "indent": [
+    "error",
+    "tab"
+  ]
+}
+}
